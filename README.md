@@ -4,7 +4,7 @@
 これまで携わってきたデザイン業界で作りあげたものの一部です。
 
 ## ポートフォリオ一覧
-![header](./image/1.jpg)
+![header](./images/1.jpg)
 ![header](./images/2.jpg)
 ![header](./images/3.jpg)
 ![header](./images/4.jpg)
